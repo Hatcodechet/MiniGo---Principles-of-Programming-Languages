@@ -1,0 +1,5 @@
+    
+            func TestFunc6() {
+                for c < 100 {return;}
+            }
+        

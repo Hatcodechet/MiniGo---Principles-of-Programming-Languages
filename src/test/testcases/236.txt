@@ -1,0 +1,6 @@
+    
+            func HanTranF() {
+                x := foo() * 3;
+                x.c[2] := 10;                       
+            }                                       
+        

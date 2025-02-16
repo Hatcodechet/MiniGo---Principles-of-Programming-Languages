@@ -1,0 +1,6 @@
+    
+            func TestFunc3() {
+                var w ID = foo(10);
+                const z = w - 4;
+            }                                       
+        

@@ -1,0 +1,5 @@
+    
+            func HanTranH() {
+                for index < 10 {return;}
+            }
+        

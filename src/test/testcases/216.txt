@@ -1,0 +1,8 @@
+    
+            func HanTran() {
+                var x int = foo() + 3 / 4;
+                var y = "Hello" / 4;   
+                var z str;
+                const HanTran = a.b() + 2;
+            }                                       
+        

@@ -1,0 +1,4 @@
+
+            func (p Q) MethA(x int) [2]ID {return;};
+            func (p Q) MethB() int {return;}
+        

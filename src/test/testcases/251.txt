@@ -1,0 +1,4 @@
+
+            func (obj T) HanTranZ(a string) string {return;};
+            func (obj T) HanTranW() [1][2]ID {return;}    
+        

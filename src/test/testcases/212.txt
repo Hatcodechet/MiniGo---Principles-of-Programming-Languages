@@ -1,0 +1,5 @@
+
+            func (c Calculator) HanTran(x int) int {return;};  
+            func (c Calculator) HanTran() ID {return;}      
+            func (c Calculator) HanTran(x int, y [2]HanTran) {return;}                                                      
+        

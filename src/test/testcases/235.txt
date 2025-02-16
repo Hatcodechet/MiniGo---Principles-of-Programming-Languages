@@ -1,0 +1,6 @@
+    
+            func HanTranE() {
+                var x ID = foo(1,2);
+                const HanTran = x + 2;
+            }                                       
+        

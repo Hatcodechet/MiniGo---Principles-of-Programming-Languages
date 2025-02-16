@@ -1,0 +1,6 @@
+    
+            func AnotherStmt2() {
+                a := bar() - 3;
+                a.z[2] := 100;                       
+            }                                       
+        

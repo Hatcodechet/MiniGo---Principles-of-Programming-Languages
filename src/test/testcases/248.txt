@@ -1,0 +1,5 @@
+
+            var x int = 10 / 2;
+            var y = a*2;   
+            var z float;
+        

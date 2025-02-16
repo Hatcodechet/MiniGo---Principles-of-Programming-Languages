@@ -1,0 +1,1 @@
+type VF struct { HanTran string ; };

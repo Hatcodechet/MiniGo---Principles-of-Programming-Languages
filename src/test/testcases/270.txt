@@ -1,0 +1,4 @@
+
+            func (c T) MethodA(x int) {return;};
+            func (c T) MethodB() bool {return;}      
+        

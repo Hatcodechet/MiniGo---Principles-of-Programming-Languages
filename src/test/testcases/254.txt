@@ -1,0 +1,6 @@
+    
+            func DemoFunc() {
+                var a ID = foo();
+                const c = a * 100;
+            }                                       
+        

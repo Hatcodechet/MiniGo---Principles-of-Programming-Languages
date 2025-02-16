@@ -1,0 +1,6 @@
+
+            type MyStruct struct {
+                field1 string ;
+                field2 int ;                     
+            }                                                                     
+        

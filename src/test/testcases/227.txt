@@ -1,0 +1,1 @@
+const HanTran = ca.foo(999) * b.c[2];

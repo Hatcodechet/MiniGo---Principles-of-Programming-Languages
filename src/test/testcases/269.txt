@@ -1,0 +1,4 @@
+
+            func TestFunc1(a int) int {return;}
+            func TestFunc2() [2]ID {return;}                                       
+        

@@ -1,0 +1,4 @@
+
+            func HanTranX(a int, b float) int {return;}
+            func HanTranY() {return;}                                     
+        

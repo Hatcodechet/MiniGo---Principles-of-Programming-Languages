@@ -1,0 +1,5 @@
+
+            var a int = 100;
+            var b = a + 1;   
+            var c float;
+        

@@ -1,0 +1,5 @@
+
+            type HanTranX struct {
+                name string
+            }
+        

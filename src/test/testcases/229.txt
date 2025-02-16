@@ -1,0 +1,5 @@
+
+            var x float = foo() - 3.2;
+            var y = "Hello";   
+            var z str;
+        

@@ -1,0 +1,6 @@
+
+            type HanTran struct {
+                HanTran string ;
+                HanTran [1][3]HanTran ;                     
+            }                                                                     
+        

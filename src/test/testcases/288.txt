@@ -1,0 +1,4 @@
+
+            func SampleF1(u int, v int) float {return;}
+            func SampleF2() {return;}                                      
+        

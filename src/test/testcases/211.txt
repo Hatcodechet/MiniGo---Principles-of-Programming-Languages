@@ -1,0 +1,5 @@
+
+            func HanTran(x int, y int) int {return;}
+            func HanTran1() [2][3] ID {return;};        
+            func HanTran2() {return;}                                       
+        

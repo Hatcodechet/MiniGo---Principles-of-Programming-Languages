@@ -1,0 +1,5 @@
+    
+            func ForFunc() {
+                if (val == 0) {return;}
+            }
+        

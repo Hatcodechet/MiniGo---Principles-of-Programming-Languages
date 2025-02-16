@@ -1,0 +1,4 @@
+
+            func HanTranA(x int, y int) bool {return;}
+            func HanTranB() [2][3] ID {return;};        
+        

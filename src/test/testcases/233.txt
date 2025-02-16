@@ -1,0 +1,6 @@
+
+            type HanTranB struct {
+                name string ;
+                age [1][3]int ;                     
+            }                                                                     
+        

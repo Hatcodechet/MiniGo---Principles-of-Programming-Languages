@@ -1,0 +1,4 @@
+
+            var x string = foo() + "bar";
+            var y = "Hello"; 
+        

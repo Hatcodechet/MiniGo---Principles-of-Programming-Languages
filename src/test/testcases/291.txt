@@ -1,0 +1,6 @@
+    
+            func AnotherStmt() {
+                var x ID = da(223);
+                const z = a + 2;
+            }                                       
+        

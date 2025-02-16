@@ -1,0 +1,1 @@
+const HanTran = Person{name: "Jane", age: 25};

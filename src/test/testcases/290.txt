@@ -1,0 +1,6 @@
+
+            type AnotherS struct {
+                F1 int;
+                F2 float;                     
+            }                                                                     
+        

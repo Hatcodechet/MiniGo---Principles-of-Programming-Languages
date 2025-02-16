@@ -1,0 +1,6 @@
+    
+            func AnotherStmt() {
+                var x ID = foo(10);
+                const y = x / 2;
+            }                                       
+        

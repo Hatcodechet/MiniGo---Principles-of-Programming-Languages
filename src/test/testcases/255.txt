@@ -1,0 +1,6 @@
+    
+            func AnotherFunc() {
+                y := bar() + 10;
+                y.z[3] := 999;                       
+            }                                       
+        
