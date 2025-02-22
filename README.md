@@ -66,8 +66,7 @@ MiniGo includes custom error handling in the lexer and parser:
 - Extend support for additional data types and operations.
 
 ## Contributors
-- **Pham Nguyen Viet Tri** - Developer
-
+- **Pham Nguyen Viet Tri**
 ## License
 This project is licensed under the MIT License.
 
